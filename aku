@@ -1,3 +1,3 @@
 git add .
-git commit -m "Mise à jour du code"
+git commit -m "Ajout du script de déploiement"
 git push origin main
